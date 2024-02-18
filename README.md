@@ -1,0 +1,1 @@
+# 45-ex-of-typescript
