@@ -7,13 +7,13 @@
 
 var array =  ["David Copperfield", "Penn & Teller","Ricky Gervais"];
 
-function showMagicians2(arr){
+function showMagicians3(arr){
     for (let i=0;i<arr.length;i++){
         console.log(arr[i]);
     }
 }
 
-function make_great(arr) {
+function make_great2(arr) {
     for (let i=0;i<arr.length;i++) {
         arr[i] = 'The Great ' + arr[i];
     }
